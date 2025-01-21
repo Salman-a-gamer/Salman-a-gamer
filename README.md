@@ -1,5 +1,5 @@
 # 💫 About Me:
-A diligent spirit following his diverse passions from digital space to creative writing. <br>A high School Student with a digitally born skillset <br>and future-proof mindset.
+A diligent spirit following his diverse passions from digital space to creative writing. <br>I'm an Udergrad with a digitally born skillset <br>and future-proof mindset.
 
 
 ## 🌐 Socials:
