@@ -13,7 +13,7 @@ A diligent spirit following his diverse passions from digital space to creative 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-a-gamer&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Salman-a-gamer&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Salman-a-gamer&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Salman-a-gamer&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
