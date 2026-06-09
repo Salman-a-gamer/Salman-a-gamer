@@ -13,6 +13,5 @@ Diligent spirit following his diverse passions from tech to creative writing<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=salman-a-gamer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![Visitor Count](https://glitch.me)
 
 <!-- Gotta thank ma pals at https://gprm.itsvg.in -->
